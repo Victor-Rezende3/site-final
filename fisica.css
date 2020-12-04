@@ -1,0 +1,18 @@
+body{
+    background-image: url(https://i.pinimg.com/originals/1b/39/d9/1b39d9d944db4c9cbf54f55e7d9252cd.png); background-repeat: no-repeat; background-size: 100% 100%; 
+    margin: 20px;
+    font-family: cursive;
+}
+
+.video{
+    padding: 20px;
+    
+    
+}
+
+.topicos{
+    border: white solid; background-color: rgb(0, 0, 68);
+    margin-right: 80%;
+    font-family: cursive; color: white;
+    padding: 5px;
+}
